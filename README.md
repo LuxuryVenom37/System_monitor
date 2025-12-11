@@ -1,6 +1,6 @@
 # System_monitor
 ----------------------------------------System monitor----------------------------------------------------------
-					                                --README--
+					                      --README--
 	Kompilácia súborov a spustenie:
 		0. Pre odstránenie všetkých skompilovaných súborov a adresára bin spustite príkaz:
 			make clean
