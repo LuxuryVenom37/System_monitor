@@ -1,5 +1,4 @@
-----------------------------------------System monitor----------------------------------------------------------
-					  					  --README--
+----------------------------------------System monitor---------------------------------------------------------------
 	Kompilácia súborov a spustenie:
 		0. Pre odstránenie všetkých skompilovaných súborov a adresára bin spustite príkaz:
 			make clean
@@ -40,5 +39,5 @@
 	  	   		-Semafór- používa sa na riadenie prístupu k SHM a je definovaný v súboroch sysmon.h a sysmon.c
 		Časovač - používa sa v klientoch na periodické získavanie dát zo servera a ich následný výpis
 
---------------------------------------by Viktor Bohunický--------------------------------------------------------
+--------------------------------------by Viktor Bohunický-------------------------------------------------------------
 ![de:hub.de-Projekt](/obr/main_running.png)
