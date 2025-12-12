@@ -1,4 +1,5 @@
 --------------------------------------------------System monitor--------------------------------------------------------------
+
 	Kompilácia súborov a spustenie:
 		0. Pre odstránenie všetkých skompilovaných súborov a adresára bin spustite príkaz:
 			make clean
@@ -39,6 +40,8 @@
 	  	   		-Semafór- používa sa na riadenie prístupu k SHM a je definovaný v súboroch sysmon.h a sysmon.c
 		Časovač - používa sa v klientoch na periodické získavanie dát zo servera a ich následný výpis
 
-------------------------------------------------by Viktor Bohunický-----------------------------------------------------------
+------------------------------------------------by Viktor Bohunický----------------------------------------------------------
+Ukážka ako vyzerá main po správnom spustení:
 ![de:hub.de-Projekt](/obr/main_running.png)
+Klient pripojený na server periodicky vypisuje stav CPU a RAM:
 ![de:hub.de-Projekt](/obr/first_client.png)
