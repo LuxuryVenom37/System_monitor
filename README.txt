@@ -41,4 +41,4 @@
 		Časovač - používa sa v klientoch na periodické získavanie dát zo servera a ich následný výpis
 
 --------------------------------------by Viktor Bohunický--------------------------------------------------------
-![de:hub.de-Projekt](/obr/main_running.jpg)
+![de:hub.de-Projekt](/obr/main_running.png)
